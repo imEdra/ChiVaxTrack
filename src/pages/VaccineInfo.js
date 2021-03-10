@@ -1,9 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 import Header from '../partials/Header';
 
-function SignUp() {
+function VaccineInfo() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
 
@@ -94,4 +93,4 @@ function SignUp() {
   );
 }
 
-export default SignUp;
+export default VaccineInfo;
