@@ -8,8 +8,8 @@ import './css/style.scss';
 import AOS from 'aos';
 import { focusHandling } from 'cruip-js-toolkit';
 import Home from './pages/Home';
-import detailedview from './pages/DetailedView';
-import vaccineinfo from './pages/VaccineInfo';
+import DetailedView from './pages/DetailedView';
+import VaccineInfo from './pages/VaccineInfo';
 
 function App() {
 
@@ -38,10 +38,10 @@ function App() {
           <Home />
         </Route>
         <Route path="/detailedview">
-          <detailedview />
+          <DetailedView />
         </Route>
         <Route path="/vaccineinfo">
-          <vaccineinfo />
+          <VaccineInfo />
         </Route>
       </Switch>
     </>
