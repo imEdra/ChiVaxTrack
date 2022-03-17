@@ -14,7 +14,7 @@
     "cruip-js-toolkit": "^1.0.2",
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
-    "node-sass": 'latest",
+    "node-sass": "latest",
     "path": "^0.12.7",
     "postcss-cli": "^7.1.2",
     "react": "^16.14.0",
