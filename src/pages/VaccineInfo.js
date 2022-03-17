@@ -5,7 +5,6 @@ import Header from '../partials/Header';
 function VaccineInfo() {
   return (
  // tba
-  );
 }
 
 export default VaccineInfo;
